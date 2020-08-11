@@ -1,0 +1,23 @@
+{
+    "name": "typescript-extension-pack",
+    "displayName": "Typescript Extension Pack",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "ZalicYu",
+    "icon": "icon.png",
+    "repository": "git@github.com:zalic0814/typescript-extension-pack.git",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "steoates.autoimport",
+        "mariusalchimavicius.json-to-ts",
+        "stringham.move-ts",
+        "quicktype.quicktype",
+        "krizzdewizz.refactorix",
+        "ms-vscode.vscode-typescript-tslint-plugin"
+    ]
+}
